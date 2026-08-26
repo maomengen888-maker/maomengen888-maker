@@ -8,20 +8,20 @@
 从问题定义与 Agent 工作流，到交互、实现、测试和开源发布，我希望让 AI 真正成为可使用的产品。
 
 [![Portfolio](https://img.shields.io/badge/个人作品集-1557FF?style=for-the-badge&logo=safari&logoColor=white)](https://maomengen888-maker.github.io/)
-[![Latest Project](https://img.shields.io/badge/最新项目_摸鱼岛-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
+[![Latest Project](https://img.shields.io/badge/最新项目_灵动工作台-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
 [![Email](https://img.shields.io/badge/联系我-FF5A45?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:1251548030@qq.com)
 
 </div>
 
 ---
 
-## 🚀 正在构建：摸鱼岛
+## 🚀 正在构建：灵动工作台 · Dynamic Workbench
 
 > 一座贴在 Mac 顶部的桌面工作岛，把 App 启动、轻量娱乐、AI Agent、需求管理和截图工具放进同一个入口。
 
 <p align="center">
   <a href="https://github.com/maomengen888-maker/trae-flow">
-    <img src="https://raw.githubusercontent.com/maomengen888-maker/trae-flow/main/docs/wechat-assets/01-app-management.png" width="72%" alt="摸鱼岛 APP 管理界面">
+    <img src="https://raw.githubusercontent.com/maomengen888-maker/trae-flow/main/docs/wechat-assets/01-app-management.png" width="72%" alt="灵动工作台 APP 管理界面">
   </a>
 </p>
 
@@ -84,6 +84,6 @@
 
 而是帮助用户在明确场景里，更稳定、更可控地完成任务。
 
-[访问个人作品集](https://maomengen888-maker.github.io/) · [查看摸鱼岛](https://github.com/maomengen888-maker/trae-flow) · [邮件联系](mailto:1251548030@qq.com)
+[访问个人作品集](https://maomengen888-maker.github.io/) · [查看灵动工作台](https://github.com/maomengen888-maker/trae-flow) · [邮件联系](mailto:1251548030@qq.com)
 
 </div>
