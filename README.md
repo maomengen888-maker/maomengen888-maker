@@ -8,36 +8,40 @@
 从问题定义与 Agent 工作流，到交互、实现、测试和开源发布，我希望让 AI 真正成为可使用的产品。
 
 [![Portfolio](https://img.shields.io/badge/个人作品集-1557FF?style=for-the-badge&logo=safari&logoColor=white)](https://maomengen888-maker.github.io/)
-[![Latest Project](https://img.shields.io/badge/最新项目_灵动工作台-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
+[![Latest Project](https://img.shields.io/badge/最新项目_简屿·灵动岛-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
 [![Email](https://img.shields.io/badge/联系我-FF5A45?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:1251548030@qq.com)
 
 </div>
 
 ---
 
-## 🚀 正在构建：灵动工作台 · Dynamic Workbench
+## 🚀 正在构建：简屿 · 灵动岛
 
-> 一座贴在 Mac 顶部的桌面工作岛，把 App 启动、轻量娱乐、AI Agent、需求管理和截图工具放进同一个入口。
+> Mac 顶部的个人工作台与 AI 陪伴助手，把待办、随笔、需求资料和日常工具集中在一座岛里。
 
 <p align="center">
   <a href="https://github.com/maomengen888-maker/trae-flow">
-    <img src="https://raw.githubusercontent.com/maomengen888-maker/trae-flow/main/docs/wechat-assets/01-app-management.png" width="72%" alt="灵动工作台 APP 管理界面">
+    <img src="https://raw.githubusercontent.com/maomengen888-maker/trae-flow/main/TraeFlow/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="128" alt="简屿 · 灵动岛应用图标">
   </a>
 </p>
 
-这个项目来自一次完整的 0→1 实践：我从开源 Mac 灵动岛项目出发，重新定位、设计并实现产品，持续解决刘海遮挡、窗口焦点、网页滚动、音频暂停和多模型接入等真实问题。
+这个项目基于开源 [TRAE Flow](https://github.com/ccsonicc333/trae-flow) 继续设计与开发。我把产品方向扩展为个人工作台与 AI 陪伴，围绕任务管理、可管理的记忆、资料检索和 Mac 顶部交互持续迭代。
 
 | 核心体验 | 产品实现 |
 | --- | --- |
-| 🧭 本机 App 管理 | 扫描已安装应用，双击直接启动 |
+| 🧭 今日工作台 | 四列任务看板、截止时间提醒、天气与带伞建议 |
+| ✨ AI 陪伴 | 陪伴、复盘、建议、知识问答四种模式，支持 Dify、DeepSeek、OpenAI 与兼容服务 |
+| 🧠 可管理的记忆 | 根据明确表达提取信息，查看来源、确认、修改、删除或设置禁止记忆规则 |
+| 📚 资料库与隐私空间 | 本地资料检索；独立的 Touch ID 解锁加密空间 |
+| 📝 随笔与需求管理 | Markdown 随笔；需求资料按 PRD → 原型 → 测试验收 → 上线组织 |
+| 📸 桌面工具 | 截图置顶、快速录音与语音转写、音乐播放控制 |
 | 🎬 抖音与置顶小窗 | 主界面/独立小窗切换，关闭时暂停音视频 |
-| ✨ 多模型 AI Agent | Dify、DeepSeek、OpenAI 与兼容服务统一入口 |
-| 📋 需求全链路 | PRD → 原型 → 测试验收 → 上线，文件按阶段管理 |
-| 📸 截图与桌面工具 | 区域/窗口/全屏截图，可固定置顶 |
+
+AI 默认进入原生陪伴工作区，DeepSeek Harness 保留为可选的「开发者工作台」。项目目前处于个人开发与体验阶段，具体功能、数据处理方式与验证结果见项目仓库。
 
 **我承担的工作：** 产品定义 · 交互设计 · SwiftUI/AppKit/WebKit 实现 · API 接入 · 测试迭代 · 文档与开源发布
 
-[查看源码与完整功能 →](https://github.com/maomengen888-maker/trae-flow)
+[查看源码与完整功能 →](https://github.com/maomengen888-maker/trae-flow) · [查看验证记录](https://github.com/maomengen888-maker/trae-flow/blob/main/docs/verification-2026-09-28.md)
 
 ---
 
@@ -84,6 +88,6 @@
 
 而是帮助用户在明确场景里，更稳定、更可控地完成任务。
 
-[访问个人作品集](https://maomengen888-maker.github.io/) · [查看灵动工作台](https://github.com/maomengen888-maker/trae-flow) · [邮件联系](mailto:1251548030@qq.com)
+[访问个人作品集](https://maomengen888-maker.github.io/) · [查看简屿 · 灵动岛](https://github.com/maomengen888-maker/trae-flow) · [邮件联系](mailto:1251548030@qq.com)
 
 </div>
