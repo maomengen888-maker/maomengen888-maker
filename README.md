@@ -8,7 +8,7 @@
 从问题定义与 Agent 工作流，到交互、实现、测试和开源发布，我希望让 AI 真正成为可使用的产品。
 
 [![Portfolio](https://img.shields.io/badge/个人作品集-1557FF?style=for-the-badge&logo=safari&logoColor=white)](https://maomengen888-maker.github.io/)
-[![Latest Project](https://img.shields.io/badge/最新项目_简屿·灵动岛-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
+[![Featured Project](https://img.shields.io/badge/核心项目_简屿·灵动岛-07111F?style=for-the-badge&logo=apple&logoColor=54DDFF)](https://github.com/maomengen888-maker/trae-flow)
 [![Email](https://img.shields.io/badge/联系我-FF5A45?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:1251548030@qq.com)
 
 </div>
@@ -46,6 +46,22 @@ AI 默认进入原生陪伴工作区，DeepSeek Harness 保留为可选的「开
 ---
 
 ## 🧩 代表项目
+
+### [章鱼时代智库 Agent](https://github.com/maomengen888-maker/zhangyu-knowledge-agent)
+
+基于 Dify Chatflow、RAG 与 Next.js 的企业知识问答项目，围绕制度查询、流程指引、引用溯源和流式对话组织体验。模型连接通过服务端代理，API Key 由服务端环境变量管理。
+
+**当前阶段：** 已有前端与 Dify 对话代理；标准评测集、人工转接和管理端评测看板仍在后续规划中。
+
+`企业知识库` `RAG` `Dify` `Next.js`
+
+### [梦象 Web PoC](https://github.com/maomengen888-maker/mengxiang-dream-trace)
+
+围绕「记录 → 梦象确认 → 按需澄清 → 解析 → 结果卡片」设计的可追溯传统解梦原型，重点验证梦象修订、会话恢复与来源边界。
+
+**当前阶段：** 解析与卡片使用演示数据，尚未接入真实模型或生产知识库；古籍条目保留待核验状态，避免把演示内容当作已核实结论。
+
+`产品原型` `状态管理` `来源溯源` `Next.js`
 
 ### [AI Product Manager Skill](https://github.com/maomengen888-maker/PM--skill)
 
